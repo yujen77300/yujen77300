@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hello, I am Yu-Jen Huang(Dylan)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-<!--
-**yujen77300/yujen77300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently enrolled in a web development bootcamp and I aspire to change my career to become a software developer.
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/yu-jen-huang-313667124/"><img src="https://img.shields.io/badge/-LinkdeIn-0A66C2?style=flat&logo=LinkedIn"/></a>
+<img src="https://img.shields.io/badge/-yujenhuang24@gmail.com-da4c40?style=flat&logo=gmail&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🧰Tech Stack
+- Programming Language
+![Golang](https://img.shields.io/badge/-Golang-161b22?style=flat&logo=Go)
+![Python](https://img.shields.io/badge/-Python-161b22?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-161b22?style=flat&logo=javascript)
+
+- Frontend : 
+![HTML](https://img.shields.io/badge/-HTML-161b22?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-161b22?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-CSS-161b22?style=flat&logo=Bootstrap&logoColor=#7952B3)
+
+- Backend : 
+![Flask](https://img.shields.io/badge/-Flask-161b22?style=flat&logo=flask&logoColor=#000000)
+![Gin](https://img.shields.io/badge/-Gin-161b22?style=flat&logo=Go)
+![Fiber](https://img.shields.io/badge/-Fiber-161b22?style=flat&logo=Go)
+
+- Tools :
+![Git](https://img.shields.io/badge/-Git-161b22?style=flat&logo=git)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-161b22?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Nginx](https://img.shields.io/badge/-NGINX-161b22?style=flat&logo=NGINX&logoColor=#009639)
+![Docker](https://img.shields.io/badge/-Docker-161b22?style=flat&logo=Docker&logoColor=#2496ED)
+![Postman](https://img.shields.io/badge/-Postman-161b22?style=flat&logo=Postman)
+![BurpSuite](https://img.shields.io/badge/-BurpSuite-161b22?style=flat)
