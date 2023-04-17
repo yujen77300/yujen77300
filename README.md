@@ -21,6 +21,7 @@ I am currently enrolled in a web development bootcamp and I aspire to change my 
 ![Flask](https://img.shields.io/badge/-Flask-161b22?style=flat&logo=flask&logoColor=#000000)
 ![Gin](https://img.shields.io/badge/-Gin-161b22?style=flat&logo=Go)
 ![Fiber](https://img.shields.io/badge/-Fiber-161b22?style=flat&logo=Go)
+![Express](https://img.shields.io/badge/-Express-161b22?style=flat&logo=express)
 
 - Tools :
 ![Git](https://img.shields.io/badge/-Git-161b22?style=flat&logo=git)
