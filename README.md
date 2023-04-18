@@ -15,7 +15,7 @@ I am currently enrolled in a web development bootcamp and I aspire to change my 
 - Frontend : 
 ![HTML](https://img.shields.io/badge/-HTML-161b22?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-161b22?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-CSS-161b22?style=flat&logo=Bootstrap&logoColor=#7952B3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-161b22?style=flat&logo=Bootstrap&logoColor=#7952B3)
 
 - Backend : 
 ![Flask](https://img.shields.io/badge/-Flask-161b22?style=flat&logo=flask&logoColor=#000000)
