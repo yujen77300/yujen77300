@@ -1,7 +1,5 @@
 # Hello, I am Yu-Jen Huang(Dylan)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I am currently enrolled in a web development bootcamp and I aspire to change my career to become a software developer.
-
 <a href="https://www.linkedin.com/in/yu-jen-huang-313667124/"><img src="https://img.shields.io/badge/-LinkdeIn-0A66C2?style=flat&logo=LinkedIn"/></a>
 <img src="https://img.shields.io/badge/-yujenhuang24@gmail.com-da4c40?style=flat&logo=gmail&logoColor=white"/>
 
